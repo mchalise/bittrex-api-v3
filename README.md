@@ -1,4 +1,4 @@
-# Ruby Snippet for Bittrex API v3
+# Ruby Snippet for Bittrex API v3 Connection
 Ruby Snippet to Connect to Bittrex API v3
 ```ruby
     API_URI = 'https://api.bittrex.com/v3'
